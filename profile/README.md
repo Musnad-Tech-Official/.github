@@ -96,7 +96,6 @@ Cross-platform desktop applications for business and productivity workflows.
 <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,postgres,redis" />
 </p>
 
-### Mobile & Desktop
 
 ### Mobile & Desktop
 
